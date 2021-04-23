@@ -1,5 +1,5 @@
 [![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](LICENSE)
-## mesh-vr-reconstruction-and-view ##
+# _mesh-vr-reconstruction-and-view_ #
 This software were developed in the context of the EspeleoRobô project, supported by Instituto Tecnologico Vale (ITV). The EspeleoRobô is a robot designed to perform inspection in confined areas, such as mines and cavities.
 
 
